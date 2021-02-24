@@ -1,0 +1,810 @@
+﻿Log file open, 02/23/21 15:50:24
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 19 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: FOnlineSubsystemEOS: Init success.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 526870] Client API initialized 1
+LogOnline: STEAM: [AppId: 526870] Game Server API initialized 1
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogInit: Build: ++FactoryGame+rel-main-0.3.7-xmas-CL-140083
+LogInit: Engine Version: 4.22.3-140083+++FactoryGame+rel-main-0.3.7-xmas
+LogInit: Compatible Engine Version: 4.22.0-5660361+++FactoryGame+rel-main-0.3.7-xmas
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: AMD Radeon RX 5600 XT
+LogInit: Compiled (64-bit): Dec  7 2020 16:06:42
+LogInit: Compiled with Visual C++: 19.16.27038.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+rel-main-0.3.7-xmas
+LogInit: Command Line:  -NO_EOS_OVERLAY
+LogInit: Base Directory: D:/SteamLibrary/steamapps/common/Satisfactory/FactoryGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Launcher File: D:/SteamLibrary/steamapps/common/Satisfactory/launcher_id
+LogInit: Launcher ID: steam
+LogInit: Launcher Artifact: 
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+[2021.02.23-20.50.24:491][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.02.23-20.50.24:491][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2021.02.23-20.50.24:499][  0]LogHAL: Display: Platform has ~ 16 GB [17132810240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.23-20.50.24:499][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2021.02.23-20.50.24:499][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.23-20.50.24:499][  0]LogInit: Computer: DESKTOP-D8RNASU
+[2021.02.23-20.50.24:499][  0]LogInit: User: r2bry
+[2021.02.23-20.50.24:499][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.23-20.50.24:499][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.23-20.50.24:499][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.02.23-20.50.24:500][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2021.02.23-20.50.24:500][  0]LogMemory: Process Physical Memory: 112.30 MB used, 112.30 MB peak
+[2021.02.23-20.50.24:500][  0]LogMemory: Process Virtual Memory: 112.43 MB used, 112.43 MB peak
+[2021.02.23-20.50.24:500][  0]LogMemory: Physical Memory: 6794.50 MB used,  9544.62 MB free, 16339.12 MB total
+[2021.02.23-20.50.24:500][  0]LogMemory: Virtual Memory: 4591.14 MB used,  134213136.00 MB free, 134217728.00 MB total
+[2021.02.23-20.50.24:534][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2021.02.23-20.50.24:534][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2021.02.23-20.50.24:538][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/en-US-POSIX/Engine.locres' could not be opened for reading!
+[2021.02.23-20.50.24:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en-US-POSIX/OnlineFramework.locres' could not be opened for reading!
+[2021.02.23-20.50.24:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en-US-POSIX/OnlineSubsystem.locres' could not be opened for reading!
+[2021.02.23-20.50.24:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en-US-POSIX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.02.23-20.50.24:539][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en-US-POSIX/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2021.02.23-20.50.24:587][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.23-20.50.24:587][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.23-20.50.24:616][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.23-20.50.24:659][  0]LogOnline: Warning: STEAM: Failed to obtain steam user stats, user: (STEAM)UnboundedAtlas [0x1DBF2568200] has no stats entries
+[2021.02.23-20.50.24:659][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5600 XT' (Feature Level 11_0)
+[2021.02.23-20.50.24:659][  0]LogD3D11RHI:       6104/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.02.23-20.50.24:663][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.23-20.50.24:663][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.23-20.50.24:663][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.23-20.50.24:672][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.23-20.50.24:673][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2021.02.23-20.50.24:673][  0]LogWindows: EnumDisplayDevices:
+[2021.02.23-20.50.24:673][  0]LogWindows:    0. 'AMD Radeon RX 5600 XT' (P:1 D:1)
+[2021.02.23-20.50.24:674][  0]LogWindows:    1. 'AMD Radeon RX 5600 XT' (P:0 D:1)
+[2021.02.23-20.50.24:674][  0]LogWindows:    2. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.02.23-20.50.24:675][  0]LogWindows:    3. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.02.23-20.50.24:675][  0]LogWindows:    4. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.02.23-20.50.24:676][  0]LogWindows:    5. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.02.23-20.50.24:676][  0]LogWindows:    6. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.02.23-20.50.24:677][  0]LogWindows:    7. 'AMD Radeon RX 5600 XT' (P:0 D:0)
+[2021.02.23-20.50.24:677][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.02.23-20.50.24:677][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5600 XT
+[2021.02.23-20.50.24:677][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.8.2 (internal:27.20.2001.16003, unified:27.20.2001.16003)
+[2021.02.23-20.50.24:677][  0]LogD3D11RHI:      Driver Date: 8-11-2020
+[2021.02.23-20.50.24:677][  0]LogRHI: Texture pool is 4272 MB (70% of 6104 MB)
+[2021.02.23-20.50.24:938][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.23-20.50.24:947][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.02.23-20.50.24:948][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.02.23-20.50.24:948][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2021.02.23-20.50.24:957][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2021.02.23-20.50.24:958][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2021.02.23-20.50.24:958][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2021.02.23-20.50.24:958][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2021.02.23-20.50.24:958][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2021.02.23-20.50.24:958][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2021.02.23-20.50.24:959][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2021.02.23-20.50.24:960][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2021.02.23-20.50.24:961][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2021.02.23-20.50.24:974][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.02.23-20.50.24:997][  0]LogSlate: Using FreeType 2.6.0
+[2021.02.23-20.50.24:997][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.23-20.50.25:056][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2021.02.23-20.50.25:056][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2021.02.23-20.50.25:056][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.02.23-20.50.25:056][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2021.02.23-20.50.25:056][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2021.02.23-20.50.25:056][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.02.23-20.50.25:056][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2021.02.23-20.50.25:056][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2021.02.23-20.50.25:056][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2021.02.23-20.50.25:056][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2021.02.23-20.50.25:066][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/Game/en/Game.locres' could not be opened for reading!
+[2021.02.23-20.50.25:069][  0]LogTextLocalizationManager: Compacting localization data took   0.59ms
+[2021.02.23-20.50.25:134][  0]LogAssetRegistry: FAssetRegistry took 0.0643 seconds to start up
+[2021.02.23-20.50.25:138][  0]LogEnum: Warning: EnumRedirect for enum ECachedNatType maps 'ECachedNATType::CNT_MAX' to invalid value 'ECachedNatType::CNT_MAX'!
+[2021.02.23-20.50.25:259][  0]LogStreaming: Display: Flushing async loaders.
+[2021.02.23-20.50.25:259][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 2 prioritized culture(s) in 0.000086 seconds
+[2021.02.23-20.50.25:259][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2021.02.23-20.50.25:282][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2021.02.23-20.50.25:294][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3761731716)
+[2021.02.23-20.50.25:753][  0]LogAkAudio: Wwise(R) SDK Version 2018.1.1 Build 6727. Copyright (c) 2006-2018 Audiokinetic Inc.
+[2021.02.23-20.50.25:754][  0]LogInit: Audiokinetic Audio Device setting bank directory to ../../../FactoryGame/Content/WwiseAudio/Windows/.
+[2021.02.23-20.50.25:964][  0]LogInit: Audiokinetic Audio Device initialized.
+[2021.02.23-20.50.28:190][  0]LogMoviePlayer: Initializing movie player
+[2021.02.23-20.50.29:001][  0]GameAnalyticsModule: Display: GameAnalyticsModule has started!
+[2021.02.23-20.50.29:001][  0]LogStreaming: Warning: Failed to read file 'C:/Users/r2bry/AppData/Local/FactoryGame/Saved/SaveGames/GameAnalytics.sav' error.
+[2021.02.23-20.50.29:021][  0]LogUObjectArray: 158833 objects as part of root set at end of initial load.
+[2021.02.23-20.50.29:021][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2021.02.23-20.50.29:021][  0]LogUObjectAllocator: 33459496 out of 0 bytes used by permanent object pool.
+[2021.02.23-20.50.29:021][  0]LogUObjectArray: CloseDisregardForGC: 158833/158833 objects in disregard for GC pool
+[2021.02.23-20.50.29:098][  0]LogEngine: Initializing Engine...
+[2021.02.23-20.50.29:110][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.02.23-20.50.29:178][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.23-20.50.29:183][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.23-20.50.29:225][  0]LogInit: XAudio2 using 'Headphones (TX-Hifi Type_C Audio)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2021.02.23-20.50.29:253][  0]LogInit: FAudioDevice initialized.
+[2021.02.23-20.50.29:265][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2021.02.23-20.50.29:265][  0]LogInit: Texture streaming: Enabled
+[2021.02.23-20.50.29:267][  0]LogSave: Display: Migrated 0 save files from old save directory [C:/Users/r2bry/AppData/Local/FactoryGame/Saved/SaveGames/] to new save directory [C:/Users/r2bry/AppData/Local/FactoryGame/Saved/SaveGames/76561198177188590/]
+[2021.02.23-20.50.29:267][  0]LogSave: Display: Created 0 backups old save directory [C:/Users/r2bry/AppData/Local/FactoryGame/Saved/SaveGames/] to new save directory [C:/Users/r2bry/AppData/Local/FactoryGame/Saved/SaveGames/76561198177188590/]
+[2021.02.23-20.50.29:268][  0]GameAnalyticsModule: Warning: Invalid EOS Metrics Handle
+[2021.02.23-20.50.29:268][  0]GameAnalyticsModule: Warning: AnalyticsService is initialized for Epic Online Services Metris
+[2021.02.23-20.50.29:268][  0]LogGame: Enable tab and nav keys: flase
+[2021.02.23-20.50.29:268][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-20.50.29:269][  0]LogInit: Display: Game Engine Initialized.
+[2021.02.23-20.50.29:269][  0]LogNetVersion: Set ProjectVersion to ++FactoryGame+rel-main-0.3.7-xmas-CL-140083. Version Checksum will be recalculated on next use.
+[2021.02.23-20.50.29:269][  0]LogInit: OnPostEngineInit has been broadcasted successfully.
+[2021.02.23-20.50.29:270][  0]LogInit: Display: Starting Game.
+[2021.02.23-20.50.29:270][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/MenuScene_02?Name=Player
+[2021.02.23-20.50.29:285][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/MenuScene_02?Name=Player
+[2021.02.23-20.50.29:311][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.02.23-20.50.29:484][  0]LogAIModule: Creating AISystem for world MenuScene_02
+[2021.02.23-20.50.29:534][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2021.02.23-20.50.29:538][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/MenuScene_02.MenuScene_02 up for play (max tick rate 0) at 2021.02.23-15.50.29
+[2021.02.23-20.50.29:542][  0]LogWorld: Bringing up level for play took: 0.005442
+[2021.02.23-20.50.29:543][  0]LogGame: Warning: Player start 'PlayerStart_2' has no tag.
+[2021.02.23-20.50.29:544][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.23-20.50.29:544][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.23-20.50.29:544][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.02.23-20.50.29:590][  0]LogSlate: Took 0.000540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.23-20.50.29:600][  0]LogConfig: Error: Unidentified category type
+[2021.02.23-20.50.29:618][  0]LogOnline: Warning: OSS: EOSSDK-LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2021.02.23-20.50.29:618][  0]GameAnalyticsModule: Warning: AnalyticsService not initialized for Google Analytics
+[2021.02.23-20.50.29:618][  0]GameAnalyticsModule: Display: Sent CCU heartbeat
+[2021.02.23-20.50.29:618][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.02.23-20.50.29:618][  0]LogLoad: Took 0.333054 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/MenuScene_02)
+[2021.02.23-20.50.29:646][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2021.02.23-20.50.29:646][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2021.02.23-20.50.29:646][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2021.02.23-20.50.29:646][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2021.02.23-20.50.29:646][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2021.02.23-20.50.34:685][  0]LogLoad: (Engine Initialization) Total time: 11.23 seconds
+[2021.02.23-20.50.34:686][  0]LogContentStreaming: Texture pool size now 2100 MB
+[2021.02.23-20.50.34:689][  1]LogOnlineIdentity: Warning: OSS: EOS-OSS: Unable to AutoLogin user (0) due to missing auth command line args
+[2021.02.23-20.50.34:689][  1]LogOnlineIdentity: Warning: OSS: EOS-OSS: Login(0) failed with EOS result code (EOS_InvalidAuth)
+[2021.02.23-20.50.34:689][  1]LogOnline: OSS: BroadcastAccountConnectionStepResult: EEosAccountConnectionResult::Close
+[2021.02.23-20.50.34:689][  1]LogOnlineIdentity: OSS: Starting account connection GUI
+[2021.02.23-20.50.34:689][  1]LogOnlineIdentity: OSS: Attempting GetEncryptedAppTicket for Steam.
+[2021.02.23-20.50.34:693][  1]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2021.02.23-20.50.34:694][  1]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2021.02.23-20.50.34:699][  1]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2021.02.23-20.50.34:700][  1]LogStreaming: Display: Suspending async loading (1)
+[2021.02.23-20.50.34:750][  1]LogStreaming: Display: Resuming async loading (0)
+[2021.02.23-20.50.34:775][  2]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.02.23-20.50.34:775][  2]LogStaticMesh: Allocated 512x304x64 distance field atlas = 9.5Mb, with 157 objects containing 5.5Mb backing data
+[2021.02.23-20.50.34:947][  3]LogOnlineIdentity: STEAM: Got Steam Login Token with length 126
+[2021.02.23-20.50.34:947][  3]LogOnlineIdentity: OSS: Got Steam Login Token result: True
+[2021.02.23-20.50.34:947][  3]LogOnlineIdentity: OSS: Calling EOS_Connect_Login
+[2021.02.23-20.50.35:172][ 37]LogOnline: Warning: OSS: EOSSDK-LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+[2021.02.23-20.50.35:515][ 97]LogOnlineIdentity: OSS: Got reply from EOS_Connect_Login
+[2021.02.23-20.50.35:515][ 97]LogOnlineIdentity: OSS: EEosAccountConnectionResult::Success
+[2021.02.23-20.50.35:516][ 97]LogOnlineIdentity: OSS: Update account connection GUI with event
+[2021.02.23-20.50.35:516][ 97]LogOnlineIdentity: OSS: Adding notify on auth time out for user: 0
+[2021.02.23-20.50.35:516][ 97]LogOnlineIdentity: OSS: Adding notify on auth time out for user: 0
+[2021.02.23-20.50.35:516][ 97]LogOnline: OSS: BroadcastAccountConnectionStepResult: EEosAccountConnectionResult::Success
+[2021.02.23-20.50.38:927][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.23-20.50.45:177][665]LogOnline: Warning: OSS: EOS-OSS: Can't ReadFriendsList() for user (0) since they are not logged in
+[2021.02.23-20.51.50:938][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS_SessionModification_SetHostAddress(EOS.0002505952d4401cbde0dd01628578c800000000000000000000000000000000:7777) returned (EOS_Success)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_76561198177188590)
+[2021.02.23-21.07.10:058][198]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.10:149][212]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.10:155][213]LogOnlineSession: Warning: OSS: EOS_SessionModification_SetHostAddress(EOS.0002505952d4401cbde0dd01628578c84a8f896830bb45dca55471f123974692:7777) returned (EOS_Success)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_76561198177188590)
+[2021.02.23-21.07.10:156][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.10:159][213]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.02.23-21.07.10:159][213]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.02.23-21.07.10:159][213]LogNet: Browse: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?listen?sessionName=PDT?Visibility=SV_FriendsOnly
+[2021.02.23-21.07.10:171][213]LogLoad: LoadMap: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?listen?sessionName=PDT?Visibility=SV_FriendsOnly
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (0)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (SESSION18826)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_76561198177188590)
+[2021.02.23-21.07.10:179][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.10:229][213]LogUObjectHash: Compacting FUObjectHashTables data took   9.68ms
+[2021.02.23-21.07.10:235][213]LogStreaming: Display: Flushing async loaders.
+[2021.02.23-21.07.11:194][213]LogAIModule: Creating AISystem for world Persistent_Level
+[2021.02.23-21.07.11:196][213]LogLoad: Game class is 'BP_GameMode_C'
+[2021.02.23-21.07.11:199][213]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.02.23-21.07.11:199][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.02.23-21.07.11:199][213]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration) is flushing async loading
+[2021.02.23-21.07.11:897][213]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration_2) is flushing async loading
+[2021.02.23-21.07.12:788][213]LogWorld: Bringing World /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2021.02.23-16.07.12
+[2021.02.23-21.07.14:472][213]LogSeasonalEvents: No active seasonal events
+[2021.02.23-21.07.14:477][213]LogOnline: Warning: OSS: SetSessionID called: PDT76561198223167
+[2021.02.23-21.07.14:576][213]LogReplicationGraph: Warning: Spatialization Rebuild caused by: /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.BP_ResourceDeposit546 at X=-130010.000 Y=100.000 Z=22309.992. New Bias: X=-155010.000 Y=-15000.000. IsStatic: 1
+[2021.02.23-21.07.14:600][213]LogWorld: Bringing up level for play took: 1.853252
+[2021.02.23-21.07.14:600][213]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (1481952) to: (1048576)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.14:655][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_76561198177188590)
+[2021.02.23-21.07.14:656][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.14:656][213]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.23-21.07.14:656][213]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.02.23-21.07.15:507][213]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2021.02.23-21.07.15:507][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/master_foliage.master_foliage: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:509][213]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2021.02.23-21.07.15:509][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/leaves/leaves_banana.leaves_banana: Failed to compile Material Instance with Base master_foliage for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:510][213]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2021.02.23-21.07.15:510][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_a.rocks_small_a: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:512][213]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2021.02.23-21.07.15:512][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_b.rocks_small_b: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:514][213]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2021.02.23-21.07.15:514][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_c_vertical_moss.rocks_small_c_vertical_moss: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:515][213]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2021.02.23-21.07.15:515][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_a2.rocks_small_a2: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:517][213]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2021.02.23-21.07.15:517][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_c.rocks_small_c: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:592][213]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2021.02.23-21.07.15:592][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/leaves/leaves_fern.leaves_fern: Failed to compile Material Instance with Base master_foliage for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:594][213]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2021.02.23-21.07.15:594][213]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_e.rocks_small_e: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.23-21.07.15:896][213]LogMaterial: Warning: Material /Game/FactoryGame/Resource/RawResources/Material/MM_ResourceNode.MM_ResourceNode missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2021.02.23-21.07.15:896][213]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2021.02.23-21.07.16:059][213]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_76561198177188590)
+[2021.02.23-21.07.16:059][213]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.16:061][213]LogNet: Display: Char_Player_C_0 ClassRepPolicy = 6
+[2021.02.23-21.07.16:062][213]LogFactory: Warning: Put down failed because we where never equipped.
+[2021.02.23-21.07.16:062][213]LogFactory: Warning: Put down failed because we where never equipped.
+[2021.02.23-21.07.16:602][213]LogEquipment: Warning: ArmSlot::SetOverrideEquipment, called twice with same equipment 'nullpeter'.
+[2021.02.23-21.07.16:607][213]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in somewhere
+[2021.02.23-21.07.16:611][213]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.02.23-21.07.16:701][213]LogLoad: Took 6.530616 seconds to LoadMap(/Game/FactoryGame/Map/GameLevel01/Persistent_Level)
+[2021.02.23-21.07.16:701][213]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.01, Realtime: 5.51. EOSNetDriver_0
+[2021.02.23-21.07.16:711][213]LogOnline: OSS: ModifyAndTestSessionID: PDT76561198223167#LE0
+[2021.02.23-21.07.16:720][213]LogOnlineSession: OSS: EOS-OSS: FindSessions
+[2021.02.23-21.07.17:105][213]LogStaticMesh: Allocated 512x512x326 distance field atlas = 81.5Mb, with 783 objects containing 39.8Mb backing data
+[2021.02.23-21.07.17:105][213]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2021.02.23-21.07.17:105][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.07.17:673][214]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 7.51, Realtime: 0.97. EOSNetDriver_0
+[2021.02.23-21.07.17:812][217]LogOnline: Warning: OSS: ModifyAndTestSessionID: Success: PDT76561198223167#LE0
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.07.17:812][217]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.17:927][224]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2021.02.23-21.07.17:927][224]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.17:946][225]LogOnlineSession: Warning: OSS: EOS-OSS: EOS_Sessions_UpdateSession() with real host address attempt returned with: EOS_Success
+[2021.02.23-21.07.18:050][232]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2021.02.23-21.07.18:050][232]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.18:163][241]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2021.02.23-21.07.18:164][241]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.07.18:275][250]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.18:280][250]LogNet: New Dynamic NetSpeed 20000 vs old 20000
+[2021.02.23-21.07.18:340][256]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.18:444][265]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.18:563][276]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.18:828][299]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in somewhere
+[2021.02.23-21.07.19:273][342]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.07.19:273][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.07.19:273][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (2)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.07.19:274][342]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.07.19:364][349]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.07.27:665][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.07.33:834][589]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.07.48:838][924]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.08.03:843][245]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.08.06:283][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.08.18:854][554]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (62)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.08.19:280][592]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.08.19:368][600]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.08.33:859][930]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.08.48:866][519]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.09.03:871][966]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.09.18:876][480]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (122)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.09.19:280][523]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.09.19:393][535]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (129)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.09.26:939][478]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.09.27:209][503]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.09.33:879][ 66]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.09.48:883][367]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.09.51:001][578]LogStreaming: Display: Flushing async loaders.
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (154)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.09.51:904][674]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.09.52:020][683]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.10.03:886][925]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.10.05:111][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.10.15:181][969]LogGame: World Serialization (save): 0.122 seconds
+[2021.02.23-21.10.15:249][969]LogGame: Compression: 0.060 seconds
+[2021.02.23-21.10.15:249][969]LogGame: Write To Disk: 0.008 seconds
+[2021.02.23-21.10.15:252][969]LogGame: Total Save Time took 0.193 seconds
+[2021.02.23-21.10.15:275][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.10.18:561][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.23-21.10.18:888][303]LogGame: Player Presence String: Just landed on the alien planet. Estabilising base of operations in Grass Fields
+[2021.02.23-21.10.20:093][413]Closing by request
+[2021.02.23-21.10.20:093][413]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.02.23-21.10.20:121][414]LogNet: World NetDriver shutdown EOSNetDriver_0 [GameNetDriver]
+[2021.02.23-21.10.20:121][414]LogNet: DestroyNamedNetDriver EOSNetDriver_0 [GameNetDriver]
+[2021.02.23-21.10.20:122][414]LogSocketSubsystemEOS: Closing listening socket. SocketAddress=[EOS.0002505952d4401cbde0dd01628578c84a8f896830bb45dca55471f123974692:7777]
+[2021.02.23-21.10.20:122][414]LogExit: GameNetDriver EOSNetDriver_0 shut down
+[2021.02.23-21.10.20:175][414]LogGame: Enable tab and nav keys: ture
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (UnboundedAtlas)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (STEAM::76561198177188590)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (0002505952d4401cbde0dd01628578c8)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (STEAM:76561198177188590)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (0)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (182)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+rel-main-0.3.7-xmas-CL-140083)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (PDT)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (PDT76561198223167#LE0)
+[2021.02.23-21.10.20:178][414]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Strict)
+[2021.02.23-21.10.20:772][414]LogStreaming: Display: Suspending async loading (1)
+[2021.02.23-21.10.20:775][414]LogStreaming: Display: Resuming async loading (0)
+[2021.02.23-21.10.20:777][414]LogSlate: Request Window 'Satisfactory  ' being destroyed
+[2021.02.23-21.10.20:777][414]LogStreaming: Display: Suspending async loading (1)
+[2021.02.23-21.10.20:834][414]LogStreaming: Display: Resuming async loading (0)
+[2021.02.23-21.10.20:834][414]LogSlate: Window 'Satisfactory  ' being destroyed
+[2021.02.23-21.10.20:836][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.02.23-21.10.20:871][414]LogExit: Preparing to exit.
+[2021.02.23-21.10.20:871][414]LogMoviePlayer: Shutting down movie player
+[2021.02.23-21.10.20:891][414]LogOnline: Error: OSS: Leaderboards Interface Requested
+[2021.02.23-21.10.20:891][414]LogOnline: Error: OSS: Leaderboards Interface Requested
+[2021.02.23-21.10.21:042][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.23-21.10.21:281][414]LogExit: Game engine shut down
+[2021.02.23-21.10.21:571][414]LogExit: Object subsystem successfully closed.
+[2021.02.23-21.10.21:638][414]LogD3D11RHI: Shutdown
+[2021.02.23-21.10.21:638][414]LogD3D11RHI: CleanupD3DDevice
+[2021.02.23-21.10.21:638][414]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.02.23-21.10.21:638][414]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.02.23-21.10.21:638][414]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.02.23-21.10.21:638][414]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.02.23-21.10.21:638][414]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.02.23-21.10.21:638][414]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.02.23-21.10.21:654][414]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module AIModule (206)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module NavigationSystem (205)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (202)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module WebMMedia (200)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (198)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (196)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (194)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module CharacterAI (192)
+[2021.02.23-21.10.21:654][414]LogModuleManager: Shutting down and abandoning module SessionServices (190)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module LevelSequence (188)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (186)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module MovieScene (184)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (182)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (180)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (178)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module EditableMesh (176)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (174)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module CableComponent (172)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module AudioCapture (170)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module MediaCompositing (166)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module LinearTimecode (164)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module ImgMedia (162)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module BackChannel (160)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module AppleVision (158)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module AppleImageUtils (156)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (154)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module GeometryCache (152)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module VariantManagerContent (150)
+[2021.02.23-21.10.21:655][414]LogModuleManager: Shutting down and abandoning module RawInput (148)
+[2021.02.23-21.10.21:656][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module SteamController (146)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module MediaIOCore (144)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Composure (142)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module LoginFlow (140)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (138)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Rejoin (136)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Hotfix (134)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Lobby (132)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Party (130)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Qos (128)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module GameAnalyticsModule (126)
+[2021.02.23-21.10.21:656][414]GameAnalyticsModule: Display: GameAnalyticsModule has shut down
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module FactoryGame (124)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module CoffeeCore (123)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (120)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module PhysXVehicles (118)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module ActorSequence (116)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module UdpMessaging (114)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module TcpMessaging (112)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module FacialAnimation (110)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module AnimationSharing (108)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (106)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module AISupportModule (104)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Paper2D (102)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module SignificanceManager (100)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module ApexDestruction (98)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module ReplicationGraph (96)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (94)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (92)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module PacketHandler (90)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (88)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module MediaAssets (86)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Overlay (84)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module UMG (82)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Slate (80)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module MRMesh (78)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Messaging (76)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (74)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module XAudio2 (72)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Networking (70)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module Core (68)
+[2021.02.23-21.10.21:656][414]LogModuleManager: Shutting down and abandoning module AkAudio (66)
+[2021.02.23-21.10.21:666][414]LogInit: Audiokinetic Audio Device terminated.
+[2021.02.23-21.10.21:666][414]LogModuleManager: Shutting down and abandoning module ImageWrapper (62)
+[2021.02.23-21.10.21:666][414]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2021.02.23-21.10.21:666][414]LogModuleManager: Shutting down and abandoning module PhysXCooking (58)
+[2021.02.23-21.10.21:666][414]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2021.02.23-21.10.21:666][414]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (54)
+[2021.02.23-21.10.21:666][414]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2021.02.23-21.10.21:667][414]LogModuleManager: Shutting down and abandoning module Media (51)
+[2021.02.23-21.10.21:673][414]LogModuleManager: Shutting down and abandoning module DatasmithContent (48)
+[2021.02.23-21.10.21:673][414]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (46)
+[2021.02.23-21.10.21:673][414]LogModuleManager: Shutting down and abandoning module OpenColorIO (44)
+[2021.02.23-21.10.21:673][414]LogModuleManager: Shutting down and abandoning module LensDistortion (42)
+[2021.02.23-21.10.21:673][414]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2021.02.23-21.10.21:673][414]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.02.23-21.10.21:673][414]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2021.02.23-21.10.21:831][414]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2021.02.23-21.10.21:831][414]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2021.02.23-21.10.22:010][414]LogOnline: OSS: Destroying FUserManagerEOS at 000001DBEC29AB00
+[2021.02.23-21.10.22:906][414]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2021.02.23-21.10.22:906][414]LogModuleManager: Shutting down and abandoning module HTTP (31)
+[2021.02.23-21.10.22:906][414]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.02.23-21.10.22:906][414]LogHttp: Display: 	verb=[POST] url=[https://api.stathat.com/ez] status=Processing
+[2021.02.23-21.10.22:933][414]LogModuleManager: Shutting down and abandoning module SSL (30)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module InstancedSplines (24)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module Landscape (22)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (20)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module OpenGLDrv (18)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module D3D11RHI (16)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (14)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module Renderer (12)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module Engine (10)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.02.23-21.10.22:934][414]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.02.23-21.10.22:939][414]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.02.23-21.10.22:943][414]LogExit: Exiting.
+[2021.02.23-21.10.22:950][414]Log file closed, 02/23/21 16:10:22
